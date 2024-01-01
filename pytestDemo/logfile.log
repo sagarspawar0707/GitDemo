@@ -1,0 +1,41 @@
+2024-01-01 16:21:06,082 : INFO :pytestDemo.test_logging :Information statement
+2024-01-01 16:21:06,083 : WARNING :pytestDemo.test_logging :Something is in warning mode
+2024-01-01 16:21:06,083 : ERROR :pytestDemo.test_logging :A major error has happend
+2024-01-01 16:21:06,088 : CRITICAL :pytestDemo.test_logging :critical issue
+2024-01-01 16:22:49,304 : DEBUG :pytestDemo.test_logging :A debug statement is executed
+2024-01-01 16:22:49,304 : INFO :pytestDemo.test_logging :Information statement
+2024-01-01 16:22:49,305 : WARNING :pytestDemo.test_logging :Something is in warning mode
+2024-01-01 16:22:49,305 : ERROR :pytestDemo.test_logging :A major error has happend
+2024-01-01 16:22:49,305 : CRITICAL :pytestDemo.test_logging :critical issue
+2024-01-01 16:32:56,298 : INFO :pytestDemo.BaseClass :Sagar
+2024-01-01 16:32:56,300 : INFO :pytestDemo.BaseClass :Pawar
+2024-01-01 16:36:26,075 : INFO :test_edit_profile :Sagar
+2024-01-01 16:36:26,076 : INFO :test_edit_profile :Pawar
+2024-01-01 16:39:11,283 : INFO :test_edit_profile :Sagar
+2024-01-01 16:39:11,283 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:39:37,208 : INFO :test_edit_profile :Sagar
+2024-01-01 16:40:08,798 : INFO :test_edit_profile :Sagar
+2024-01-01 16:40:08,798 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:45:18,147 : INFO :test_edit_profile :Sagar
+2024-01-01 16:45:18,147 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:50:44,442 : INFO :test_edit_profile :Sagar
+2024-01-01 16:50:44,442 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:50:44,458 : DEBUG :pytestDemo.test_logging :A debug statement is executed
+2024-01-01 16:50:44,458 : INFO :pytestDemo.test_logging :Information statement
+2024-01-01 16:50:44,458 : WARNING :pytestDemo.test_logging :Something is in warning mode
+2024-01-01 16:50:44,458 : ERROR :pytestDemo.test_logging :A major error has happend
+2024-01-01 16:50:44,458 : CRITICAL :pytestDemo.test_logging :critical issue
+2024-01-01 16:51:33,652 : INFO :test_edit_profile :Sagar
+2024-01-01 16:51:33,668 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:51:33,668 : DEBUG :pytestDemo.test_logging :A debug statement is executed
+2024-01-01 16:51:33,668 : INFO :pytestDemo.test_logging :Information statement
+2024-01-01 16:51:33,668 : WARNING :pytestDemo.test_logging :Something is in warning mode
+2024-01-01 16:51:33,668 : ERROR :pytestDemo.test_logging :A major error has happend
+2024-01-01 16:51:33,668 : CRITICAL :pytestDemo.test_logging :critical issue
+2024-01-01 16:53:20,801 : INFO :test_edit_profile :Sagar
+2024-01-01 16:53:20,817 : INFO :test_edit_profile :sagarspawar0707@gmail.com
+2024-01-01 16:53:20,831 : DEBUG :pytestDemo.test_logging :A debug statement is executed
+2024-01-01 16:53:20,831 : INFO :pytestDemo.test_logging :Information statement
+2024-01-01 16:53:20,831 : WARNING :pytestDemo.test_logging :Something is in warning mode
+2024-01-01 16:53:20,831 : ERROR :pytestDemo.test_logging :A major error has happend
+2024-01-01 16:53:20,831 : CRITICAL :pytestDemo.test_logging :critical issue
